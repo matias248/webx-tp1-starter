@@ -1,0 +1,22 @@
+XPath 1.0
+=========
+
+1. Sélectionner les titres de tous les films.
+
+
+2. Sélectionner le résumé (texte uniquement) du film dont le titre est "Minority Report".
+
+
+3. Sélectionner le nom (texte uniquement) du dernier réalisateur dans l'ordre du document XML.
+
+
+4. Sélectionner le titre (texte uniquement) du deuxième film dans l'ordre du document.
+
+
+5. Sélectionner les titres des films pour lesquels une image est disponible.
+
+
+6. Sélectionner les dates des films de Scorsese.
+
+
+7. Renvoyer le nombre de films sortis en 2003.
